@@ -2,9 +2,9 @@ This project involves the design, simulation, and analysis of a digital communic
 
 # Project Overview:
 
-## Design and simulate a digital communication system.
-## Use MATLAB or Python for implementation.
-## Document all results and final reports in PDF format.
+ - Design and simulate a digital communication system.
+ - Use MATLAB or Python for implementation.
+ - Document all results and final reports in PDF format.
 
 
 # Simulation and Implementation:
